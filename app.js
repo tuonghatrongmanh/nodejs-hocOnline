@@ -1,0 +1,1 @@
+console.log("hello wword ha trong manhj tuong");
